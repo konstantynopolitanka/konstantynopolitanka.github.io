@@ -6,14 +6,14 @@ highlighter:      rouge
 title:            Okrągła Sowa
 tagline:         Super blogasek	
 description:      ""
-url:              https://github.com/karloespiritu/blackdoc
+url:              https://konstantynopolitanka.github.io/
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
   name:           Okrągła Sowa
-  url:            https://twitter.com/karloespiritu
+  url:            https://konstantynopolitanka.github.io/
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -28,6 +28,6 @@ plugins_dir:
 version:            2.0.1
 
 github:
-  repo:             https://github.com/karloespiritu/blackdoc
+  repo:             https://konstantynopolitanka.github.io/
   
 gems: [jekyll-paginate]
