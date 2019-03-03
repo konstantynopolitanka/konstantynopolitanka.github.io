@@ -27,7 +27,7 @@ github_username:  konstantynopolitanka
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
