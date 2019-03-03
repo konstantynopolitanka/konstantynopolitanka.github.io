@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Okrągła Sowa
 tagline:         Super blogasek	
 description:      ""
-url:              https://konstantynopolitanka.github.io/
+url:              https://github.com/konstantynopolitanka/konstantynopolitanka.github.io
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
