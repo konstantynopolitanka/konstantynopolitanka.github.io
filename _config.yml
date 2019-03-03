@@ -8,7 +8,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-<<<<<<< HEAD
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -24,21 +23,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://konstantynopolitanka.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: co0lster
 github_username:  konstantynopolitanka
-=======
-# Setup
-title:            Okrągła Sowa
-tagline:         Super blogasek	
-description:      ""
-url:              https://github.com/konstantynopolitanka/konstantynopolitanka.github.io
-baseurl:          https://konstantynopolitanka.github.io/
 
-                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
-                  # This will apply to all pages in your Jekyll site.
->>>>>>> 277fc3112a065012c08f679db7b5a393703fa557
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
