@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Okrągła Sowa
 email: okragly25@gmail.com
-description: >- Nieregularny blog programistyczny dwóch ziomków.
+description: Nieregularny blog programistyczny dwóch ziomków.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://konstantynopolitanka.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: co0lster
